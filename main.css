@@ -1,0 +1,7 @@
+img {
+    border-radius: 10px;
+}
+
+.js-icon:hover {
+    transform: scale(1.1);
+}
